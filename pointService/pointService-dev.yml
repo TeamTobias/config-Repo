@@ -21,6 +21,8 @@ logging:
     com.mycompany.myapp: DEBUG
 
 spring:
+  application:
+    name: pointservice
   devtools:
     restart:
       enabled: true
