@@ -27,8 +27,8 @@ spring:
     show-sql: true
 
 greeting:
-  message: this is dev application.yml
+  message: this is prod application.yml
 
 
 # test message
-test.message: "this is a test message: i'm clientService-dev.yml"
+test.message: "this is a test message: i'm clientService-prod.yml"
